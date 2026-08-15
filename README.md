@@ -12,3 +12,6 @@ I am a B.Tech CSE (Cyber Security) student learning C++ and problem solving.
 - Loops
 - Functions
 - Arrays
+## Current Goal
+
+Learning C++ and GitHub step by step.
